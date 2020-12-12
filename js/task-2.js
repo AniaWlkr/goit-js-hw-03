@@ -8,7 +8,7 @@ const countProps = function(obj) {
   }
   return count;
 };
-
+//Object.keys().length
 /*
  * Вызовы функции для проверки работоспособности твоей реализации.
  */
